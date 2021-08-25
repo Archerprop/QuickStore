@@ -27,10 +27,8 @@
                         </div>
                     </div>  
                 <a href="#" class="active">Inicio</a>
-                <a href="prueba/">Series</a>
-                <a href="#">Mi lista</a>
-                <a href="#">Recientes</a>
-                <a href="#">Foro</a>
+                <a href="#">Tienda</a>
+                <a href="#">Sobre Nosotros</a>
                 </div>
             </nav>
         </div>
