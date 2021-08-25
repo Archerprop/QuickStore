@@ -38,14 +38,8 @@
 
     <main>
         <div class="serie-principal">
-            <video src="sources/videos/genshin.mp4" type="video/mp4" autoplay muted loop id="video"></video>
+            <video src="src/videos/QUICK STORE.mp4" type="video/mp4" autoplay muted loop id="video"></video>
             <div class="container" id="container">
-                <h3 class="title">Genshin Impact</h1>
-                    <p class="description">
-                        Genshin Impact está ambientado en un continente llamado Teyvat, regido por unos dioses llamados Arcontes, que otorgan Visiones a personas elegidas. Estas Visiones permiten a los jugadores manejar poderes elementales. En Teyvat los jugadores se embarcarán en varias aventuras como forasteros y viajarán con diferentes personajes con habilidades únicas que van encontrando en el camino para explorar lo desconocido y descubrir los secretos de Genshin en esta tierra. Al comienzo del juego, los jugadores pueden elegir ser un hermano o una hermana que se adentra en la aventura en búsqueda de su familia.
-                    </p>
-                    <button role="button" class="btn"><i class="fas fa-play"></i>Reproducir</button>
-                    <button role="button" class="btn"><i class="fas fa-info-circle"></i>Mas informacion</button>
             </div>
         </div>
 
