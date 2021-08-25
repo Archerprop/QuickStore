@@ -10,14 +10,14 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/331eb88a93.js" crossorigin="anonymous"></script>
-    <title>Visual Proyect</title>
+    <title>Quick Store</title>
 </head>
 <body>
     <header>
         <div class="container">
             <!--<img src="sources/images/favicon.png" alt="logoType" class="logo">-->
                    
-            <h2 class="logo">Visual Proyect</h2>
+            <h2 class="logo">Quick <span style="color: #ff1616">Store</span></h2>
             <nav>
                 <div class="bar">
                     <div class="buscador">
@@ -61,64 +61,64 @@
                 <div class="container-carousel">
                     <div class="carousel">
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-1.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-1.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-2.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-2.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-3.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-3.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-4.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-4.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-5.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-5.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-6.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-6.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-7.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-7.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-8.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-8.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-9.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-9.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-10.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-10.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-11.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-11.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-12.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-12.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-13.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-13.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-14.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-14.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-15.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-15.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-16.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-16.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-17.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-17.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-18.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-18.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-19.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-19.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="sources/images/image-20.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-20.jpg" alt="genshin1"></a>
                         </div>
                     </div>
                 </div>
@@ -136,64 +136,64 @@
                 <div class="container-carousel-new">
                     <div class="carousel-new">
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-1.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-1.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-2.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-2.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-3.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-3.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-4.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-4.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-5.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-5.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-6.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-6.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-7.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-7.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-8.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-8.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-9.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-9.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-10.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-10.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-11.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-11.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-12.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-12.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-13.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-13.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-14.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-14.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-15.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-15.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-16.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-16.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-17.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-17.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-18.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-18.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-19.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-19.jpg" alt="genshin1"></a>
                         </div>
                         <div class="serie-new">
-                            <a href="#"><img src="sources/images/image-20.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/image-20.jpg" alt="genshin1"></a>
                         </div>
                     </div>
                 </div>
