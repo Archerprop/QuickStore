@@ -38,7 +38,7 @@
 
     <main>
         <div class="serie-principal">
-            <video src="src/videos/QUICK STORE.mp4" type="video/mp4" autoplay muted loop id="video"></video>
+            <!--<video src="src/videos/QUICK STORE.mp4" type="video/mp4" autoplay muted loop id="video"></video>-->
             <div class="container" id="container">
             </div>
         </div>
