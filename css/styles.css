@@ -125,13 +125,11 @@ header nav a.active{
     font-size: 16px;
     min-height: 40.62em;
     color: #FFF;
-    background: linear-gradient(rgba(0,0,0, .50) 0%, rgba(0,0,0, .50) 100%) ;
+    background: rgb(243, 241, 241) ;
     background-position: center center;
     background-size: cover;
+    align-items: center;
     margin-bottom: 3.12em;
-    display: flex;
-    align-items: flex-end;
-    z-index: -1000;
     transition: .3s ease all;
     -webkit-transition: .3s ease all;
     -moz-transition: .3s ease all;
@@ -181,7 +179,13 @@ header nav a.active{
 }
 
 .serie-principal img.img-responsive{
+    display: block;
     margin: auto;
+    transform: translate(0%,15%);
+    -webkit-transform: translate(0%,15%);
+    -moz-transform: translate(0%,15%);
+    -ms-transform: translate(0%,15%);
+    -o-transform: translate(0%,15%);
 }
 
 .serie-principal .btn{

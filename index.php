@@ -36,6 +36,9 @@
 
     <main>
         <div class="serie-principal">
+            <div class="container">
+                
+            </div>
             <img alt="Logo" src="src/images/QUICK STORE.gif" class="img-responsive">
             <!--<video src="src/videos/QUICK STORE.mp4" type="video/mp4" autoplay muted loop id="video"></video>-->
             <div class="container" id="container">
