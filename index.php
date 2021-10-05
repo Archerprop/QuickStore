@@ -51,7 +51,8 @@
                 <div class="indicadores">
                 </div>
             </div>
-
+            <br>
+            <hr size="2px" color="black" width="100%">
             <div class="container-principal">
                 <button role="button" id="arrow-left" class="arrow-left"><i class="fas fa-angle-left"></i></button>
                 <div class="container-carousel">
