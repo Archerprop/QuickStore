@@ -2,6 +2,7 @@
 :root{
     --base-color: #38b6ff;
     --dark: #141414;
+    --light: #f3f1f1;
 }
 
 *{
@@ -13,7 +14,7 @@
 }
 
 body{
-    background-color: var(--dark);
+    background-color: var(--light);
     font-family: 'Open Sans', sans-serif;
 }
 

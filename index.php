@@ -57,25 +57,26 @@
                 <div class="container-carousel">
                     <div class="carousel">
                         <div class="serie">
-                            <a href="#"><img src="src/images/image-1.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/shirts/image-1.jpeg" alt="T-SHIRT POLERA NEGRA CALAVERA "></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="src/images/image-2.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/shirts/image-2.jpeg" alt="T-SHIRT POCERA MOTO"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="src/images/image-3.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/shirts/image-3.jpeg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="src/images/image-4.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/shirts/image-4.jpeg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="src/images/image-5.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/shirts/image-5.jpeg" alt="genshin1"></a>
+                        </div>
+                        <!--
+                        <div class="serie">
+                            <a href="#"><img src="src/images/shirts/image-6.jpeg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
-                            <a href="#"><img src="src/images/image-6.jpg" alt="genshin1"></a>
-                        </div>
-                        <div class="serie">
-                            <a href="#"><img src="src/images/image-7.jpg" alt="genshin1"></a>
+                            <a href="#"><img src="src/images/shirts/image-7.jpeg" alt="genshin1"></a>
                         </div>
                         <div class="serie">
                             <a href="#"><img src="src/images/image-8.jpg" alt="genshin1"></a>
@@ -116,6 +117,7 @@
                         <div class="serie">
                             <a href="#"><img src="src/images/image-20.jpg" alt="genshin1"></a>
                         </div>
+                        -->
                     </div>
                 </div>
                 <button role="button" id="arrow-right" class="arrow-right"><i class="fas fa-angle-right"></i></button>
