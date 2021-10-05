@@ -130,7 +130,7 @@ header nav a.active{
     background-position: center center;
     background-size: cover;
     align-items: center;
-    margin-bottom: 3.12em;
+    margin-bottom: 7.40em;
     transition: .3s ease all;
     -webkit-transition: .3s ease all;
     -moz-transition: .3s ease all;
@@ -250,7 +250,7 @@ div.video{
 
     .container-title-controls h3,
     .container-title-controls-new h3{
-        color: #FFF;
+        color: rgb(0, 0, 0);
         font-size: 30px;
     }
 
@@ -354,13 +354,13 @@ div.video{
 
     .series-recomendadas .container-carousel .carousel .serie.hover,
     .series-recomendadas-new .container-carousel-new .carousel-new .serie-new.hover{
-        transform: scale(1.2);
-        -webkit-transform: scale(1.2);
-        -moz-transform: scale(1.2);
-        -ms-transform: scale(1.2);
-        -o-transform: scale(1.2);
+        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        -o-transform: scale(1.1);
         transform-origin: center;
-    }
+}
     .series-recomendadas .container-carousel .carousel .serie img,
     .series-recomendadas-new .container-carousel-new .carousel-new .serie-new img{
         width:100%;

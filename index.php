@@ -47,7 +47,7 @@
 
         <div class="series-recomendadas container">
             <div class="container-title-controls">
-                <h3>Series Recomendadas</h3>
+                <h3>Camisetas de hombre</h3>
                 <div class="indicadores">
                 </div>
             </div>
