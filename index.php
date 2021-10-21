@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,15 +9,17 @@
     <link rel="stylesheet" href="css/styles.css" type="text/css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;600&display=swap"
+        rel="stylesheet">
     <script src="https://kit.fontawesome.com/331eb88a93.js" crossorigin="anonymous"></script>
     <title>Quick Store</title>
 </head>
+
 <body>
     <header>
         <div class="container">
             <!--<img src="sources/images/favicon.png" alt="logoType" class="logo">-->
-                   
+
             <h2 class="logo">Quick <span style="color: #ff1616">Store</span></h2>
             <nav>
                 <div class="bar">
@@ -25,10 +28,10 @@
                         <div class="btn-search">
                             <i class="fas fa-search icon"></i>
                         </div>
-                    </div>  
-                <a href="#" class="active">Inicio</a>
-                <a href="#">Tienda</a>
-                <a href="#">Sobre Nosotros</a>
+                    </div>
+                    <a href="#" class="active">Inicio</a>
+                    <a href="shop.php">Tienda</a>
+                    <a href="#">Sobre Nosotros</a>
                 </div>
             </nav>
         </div>
@@ -37,7 +40,7 @@
     <main>
         <div class="serie-principal">
             <div class="container">
-                
+
             </div>
             <img alt="Logo" src="src/images/QUICK STORE.gif" class="img-responsive">
             <!--<video src="src/videos/QUICK STORE.mp4" type="video/mp4" autoplay muted loop id="video"></video>-->
@@ -58,7 +61,8 @@
                 <div class="container-carousel">
                     <div class="carousel">
                         <div class="serie">
-                            <a href="#"><img src="src/images/shirts/image-1.jpeg" alt="T-SHIRT POLERA NEGRA CALAVERA "></a>
+                            <a href="#"><img src="src/images/shirts/image-1.jpeg"
+                                    alt="T-SHIRT POLERA NEGRA CALAVERA "></a>
                         </div>
                         <div class="serie">
                             <a href="#"><img src="src/images/shirts/image-2.jpeg" alt="T-SHIRT POCERA MOTO"></a>
@@ -131,7 +135,8 @@
                 </div>
             </div>
             <div class="container-principal-new">
-                <button role="button" id="arrow-left-new" class="arrow-left-new"><i class="fas fa-angle-left"></i></button>
+                <button role="button" id="arrow-left-new" class="arrow-left-new"><i
+                        class="fas fa-angle-left"></i></button>
                 <div class="container-carousel-new">
                     <div class="carousel-new">
                         <div class="serie-new">
@@ -196,12 +201,13 @@
                         </div>
                     </div>
                 </div>
-                <button role="button" id="arrow-right-new" class="arrow-right-new"><i class="fas fa-angle-right"></i></button>
+                <button role="button" id="arrow-right-new" class="arrow-right-new"><i
+                        class="fas fa-angle-right"></i></button>
             </div>
         </div>
     </main>
     <footer>
-        <div class="container">  
+        <div class="container">
             <div class="social-media">
                 <h3>Contactanos</h3>
                 <button role="button" class="btn"><i class="fab fa-discord"></i></button>
@@ -212,4 +218,5 @@
     </footer>
     <script src="javascript/main.js"></script>
 </body>
+
 </html>
