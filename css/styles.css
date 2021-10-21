@@ -43,14 +43,14 @@ header .logo{
 }
 
 header nav a{
-    color: #AAA;
+    color: rgb(121, 121, 121);
     text-decoration: none;
     margin-right: 20px;
 }
 
 header nav a:hover,
 header nav a.active{
-    color: #FFF;
+    color: rgb(0, 0, 0);
 }
 /*------------buscador------------*/
 
