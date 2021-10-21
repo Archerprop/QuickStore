@@ -261,8 +261,6 @@ const Header = ({ children, cartItems, backButton, cartButton }) => {
   React.createElement(Link, { to: "/", className: "back-button" }, "< Back to shop");
 
 
-
-
   const getCartButton = () => /*#__PURE__*/
   React.createElement(Link, { to: "/cart", className: "cart-button" }, "Cart (",
   cartItems, ")");
@@ -275,6 +273,20 @@ const Header = ({ children, cartItems, backButton, cartButton }) => {
     React.createElement("div", { className: "header-contents" },
     backButton ? getBackButton() : '',
     cartButton ? getCartButton() : '')), /*#__PURE__*/
+    React.createElement("div", { className: "container"},
+    React.createElement("h2", { className: "logo", style: {color: "#38b6ff", fontSize: "40px"}}, "Quick",
+    React.createElement("span", { style: { color: "#ff1616"}}, "Store")
+    ),
+    React.createElement("nav", {},
+    React.createElement("div", { className: "bar"}, 
+    React.createElement("div", { className: "buscador"}, 
+    React.createElement("input", { type: "text", placeholder: "Buscar", required: true}), /*#__PURE__*/
+    React.createElement("div", { className:"btn-search"},
+    React.createElement("i",{ className:"fas fa-search icon"})), /*#__PURE__*/
+    React.createElement(Link, {href: "index.php"}, "Inicio"), /*#__PURE__*/
+    React.createElement(Link, { className:"active", href: "#"}, "Tienda"), /*#__PURE__*/
+    React.createElement(Link, { href: "#"}, "Sobre Nosotros"),
+    )))),
 
 
     React.createElement("main", { className: "main" },
