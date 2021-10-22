@@ -48,9 +48,14 @@ header nav a{
     margin-right: 20px;
 }
 
-header nav a:hover,
+
 header nav a.active{
+    transition: 0.2s;
     color: rgb(0, 0, 0);
+}
+header nav a:hover{
+    transition: 0.2s;
+    color: #27a;
 }
 /*------------buscador------------*/
 

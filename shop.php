@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>CodePen - React Shopping Cart Demo</title>
+    <title>QuickStore</title>
     <link rel="stylesheet" href="css/style_shop.css">
 
 </head>

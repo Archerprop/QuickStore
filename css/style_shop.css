@@ -143,12 +143,30 @@ h1, h2 {
 .header-contents > a {
   flex: 0 0 auto;
 }
-
+/*------------estilos menu bar------------*/
+a#active{
+    transition: 0.2s;
+    color: rgb(0, 0, 0);
+}
+a#active:hover {
+    transition: 0.2s;
+    color: #27a;
+}
+.bar{
+  position: relative;
+  padding: 5px; 
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+.buscador{
+  position: relative;
+}
+/*------------estilos carrito------------*/
 .back-button {
   margin: 1rem auto 1rem 1rem;
   padding: 0.625rem 0;
 }
-
 .cart-button {
   margin: 1rem 1rem 1rem auto;
   padding: 0.5rem;
@@ -216,6 +234,7 @@ h1, h2 {
 
   .item-image {
     flex: 0 0 auto;
+    width: 300px;
   }
 
   .item-details {
